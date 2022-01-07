@@ -1,0 +1,5 @@
+SQLAlchemy==1.4.28
+requests==2.22.0
+PyYAML==6.0
+Flask-SQLAlchemy==2.5.1
+Flask==2.0.2

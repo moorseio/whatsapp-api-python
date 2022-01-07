@@ -1,0 +1,5 @@
+welcomeMessage = "Olá {}, seja bem-vindo(a) à 🍕 pizzaria do Moorse.\nEu sou o MoorseBot 🤖 seu assistente virtual.\nDiga-me o que deseja!\n\n"
+chooseOption = "Por favor, escolha uma opção."
+addedProduct = "Produto adicionado"
+emptyOrder = "Seu pedido está vazio!!!"
+completedOrder = "Seu pedido foi concluído com sucesso\n["
