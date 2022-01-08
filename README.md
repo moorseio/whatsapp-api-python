@@ -62,3 +62,7 @@ A aplicação principal fica dentro da pasta app, o arquivo é nomeado de `main.
 |Whatsapp|Telegram|Discord|
 |---|---|---|
 |<a display="inline" target="_blank" href="https://web.whatsapp.com/send?phone=5511975923164&text=oi" target="_blank"><img align="center" title="whatsapp" height="50" width="50" src="images/whatsapp.png"/></a>|<a display="inline" float="left" target="_blank" href="https://t.me/moorseio" target="_blank"><img title="Telegram" height="50" width="50" src="images/telegram.png" align="center"/></a>|<a display="inline" target="_blank" href="https://discord.gg/uPp2SmCA" target="_blank"><img src="images/discord.png" height="50" width="50" align="center"></a>|
+	
+<a href="https://moorse.io/">
+  <img alt="Logo" title="#logo" width="300px" src="images/github.gif">
+</a>
